@@ -1,5 +1,5 @@
 
-# Approximation Algorithms for Stable Roommates
+# Compute Stable Half-Matchings in the Many-to-Many Non-Bipartite Stable Fixtures Problem
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Manuscript submitted.
 
 ## Get Started
 1. Make sure you have a recent Python 3 version installed. 
-2. Install required packages: e.g., from the main project folder, run `pip install -r requirements.txt`. 
+2. Install required packages (see imports). 
 3. Understand the code structure in `experiment.py`.
 
 ## Structure
